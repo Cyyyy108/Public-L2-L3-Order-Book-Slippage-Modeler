@@ -12,4 +12,4 @@ Real-time Level 2 (`L2`) order book and slippage modeler for `BTCUSDT` using Bin
 - `Orderbook_modeler.py` — Main real-time order book and slippage script.
 - `Orderbook_modeler.txt` — Plain-text copy of the Python script.
 - `requirements.txt` — Third-party Python dependencies (`websockets`, `requests`).
-- `Task1.1.pdf` — 1-page report with appendix of the snapshot covering theoretical market-making edge, adverse selection, and top-tier exchange fee structures.
+- `Task1.1.pdf` — 1-page report with appendix of the snapshot (Please refer to .csv) covering theoretical market-making edge, adverse selection, and top-tier exchange fee structures.
